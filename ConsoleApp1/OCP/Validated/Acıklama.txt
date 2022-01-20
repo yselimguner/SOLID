@@ -1,0 +1,7 @@
+﻿Bu prensibi elektirk adaptörü gibi düşününebilrisin .
+Çıkış sayısını değiştirmek mümkün değildir .ancak istek üzerne daha fazla daptor eklenebilir.. 
+
+İlk olarak bad class gidn bakın bir 
+
+--AMAC=>> HER YENİ TİPE BİR CLASS OLUŞTURMAK bU SAYADE KOD GENİŞLETİLEBİLİR OLACAK SADE OLACAK SON EKLENEN CLASSLAR DAHA RAHAT KONTROL EDİELECEK .Var olan classları dünzelemeye gerrek kalmayacak. 
+--Kötü kullanımda tek class içerisnde if else ekleyerek tipleri tutraken ,valited klasörü altında her tip için class oluşturduk.Bu sayade yeni bir tip eklendiğinde sadece yeni bir sınıf açılacak ve var olan sınıfların kodlarında değişklik yapmak zorunda kalamayaacaksınız...

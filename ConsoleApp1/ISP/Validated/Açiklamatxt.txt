@@ -1,0 +1,7 @@
+﻿Interface Segregation Princeple 
+--Sınıflar ihtiyacları olmayan özellik ve davranışları içeren interfacleri  almamalıdır. 
+Ibird sınıfına bakarsak öok genel olduğunu ve farkli kuş türlerinden kuş ailesinden gelen türlerde probllmlere yol açtığını görebilrisiniz tavuk penguen  gibi kuş türleri uçamazlar  ve biz kuş interface üzerinde  tüm kuşlara ıçma özelliğini dahil ettik yani solid  ısP PRESİBİNİ ÇĞNEDİK...kÖTÜ BİR YAZILIM TASARIMI GERÇEKLEŞTİRİDİK......
+//Bunu düzeltmek adına kuş interfaceni biraz bölümlere bölmeniz grek 
+//Valited klasöründe bu burplemi çözelimm ....
+//Bunu düzeltemek adına kuş interfacenin biraz parçaladık ..  
+ardından  şahin sınıfına bakarsak hem uçamayan hemde uçabilen  kuşların yeteneklerine sahip oldularını göreceksiniz.Ancak tavukların sadece uçamayan kuşların özelliklerine sahip olduğunuda farketmeniz lazım .bU SAYAEDE TAVUK SINIFIN GEREKSİZ DAVRANIŞLARINI VEÖZELLİKLERİNİ ONDA ALMIŞ OLDUKK ..

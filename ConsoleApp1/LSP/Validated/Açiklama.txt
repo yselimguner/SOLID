@@ -1,0 +1,13 @@
+﻿Liskov Subsition Princeple
+
+LSP KLASÖRÜNDE BU İŞLEM YAPILDI.. 
+Bu presip ocp ' çok beznemekte ...
+
+Bu presibi ICollection -List yapıları arasındaki ilişki gibi düşünün. .
+--Alt sınfılarda oluşan nesneler(kalitim) üst sınıflarda oluşturulan nesnelerde yer değiştirelebilir olmalıdır. ..
+
+1-AreaCalculator Classını kaldırcaskınız.. 
+2)Herşeklin kendi alan hesaplamasına sahip olduğundan emin olun.....
+3)Dörgen sınıfın base sınıf olmasıda , shape adında genel soyut bir sınıf oluşturyoruz... 
+
+İşlemleri yapıp testler yapıldığında hatasız çalışıtığını göreceksiniz... 

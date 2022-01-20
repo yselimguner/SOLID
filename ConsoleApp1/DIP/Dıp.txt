@@ -1,0 +1,1 @@
+﻿Abstaction ile sınıfımızından alt seviye sınıflara bağımlılığımızı kaldırmamız gerekir.
